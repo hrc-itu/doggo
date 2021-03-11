@@ -1,2 +1,1 @@
-# doggo
-An engineering student in Turkey
+# My First Repo
